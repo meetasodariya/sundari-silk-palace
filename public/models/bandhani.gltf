@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "minimal-bandhani-generator"
+  },
+  "buffers": [
+    {
+      "byteLength": 140,
+      "uri": "data:application/octet-stream;base64,AAAAvwAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAPwAAgD8AAAAAAAAAvwAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAEAAgAAAAIAAwA="
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48,
+      "byteLength": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96,
+      "byteLength": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 128,
+      "byteLength": 12,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "min": [
+        -0.5,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.5,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 6,
+      "type": "SCALAR"
+    }
+  ],
+  "images": [
+    {
+      "uri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+CjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmZmZhZjMiLz4KPGcgZmlsbD0iI2ZmNzAwMCI+CiAgPCEtLSByZXBlYXQgYSBkb3QgcGF0dGVybiAtLT4KICA8Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSI2Ii8+PGNpcmNsZSBjeD0iNDgiIGN5PSIxNiIgcj0iNiIvPjxjaXJjbGUgY3g9IjgwIiBjeT0iMTYiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIxNiIgcj0iNiIvPjxjaXJjbGUgY3g9IjE0NCIgY3k9IjE2IiByPSI2Ii8+PGNpcmNsZSBjeD0iMTc2IiBjeT0iMTYiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIxNiIgcj0iNiIvPjxjaXJjbGUgY3g9IjI0MCIgY3k9IjE2IiByPSI2Ii8+PGNpcmNsZSBjeD0iMTYiIGN5PSI0OCIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iNDgiIHI9IjYiLz48Y2lyY2xlIGN4PSI4MCIgY3k9IjQ4IiByPSI2Ii8+PGNpcmNsZSBjeD0iMTEyIiBjeT0iNDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSI0OCIgcj0iNiIvPjxjaXJjbGUgY3g9IjE3NiIgY3k9IjQ4IiByPSI2Ii8+PGNpcmNsZSBjeD0iMjA4IiBjeT0iNDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSI0OCIgcj0iNiIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iODAiIHI9IjYiLz48Y2lyY2xlIGN4PSI0OCIgY3k9IjgwIiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSI4MCIgcj0iNiIvPjxjaXJjbGUgY3g9IjExMiIgY3k9IjgwIiByPSI2Ii8+PGNpcmNsZSBjeD0iMTQ0IiBjeT0iODAiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSI4MCIgcj0iNiIvPjxjaXJjbGUgY3g9IjIwOCIgY3k9IjgwIiByPSI2Ii8+PGNpcmNsZSBjeD0iMjQwIiBjeT0iODAiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjExMiIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTEyIiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIxMTIiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjE0NCIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTQ0IiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIxNDQiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjE3NiIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTc2IiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIxNzYiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjIwOCIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iMjA4IiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIyMDgiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjI0MCIgcj0iNiIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iMjQwIiByPSI2Ii8+PGNpcmNsZSBjeD0iODAiIGN5PSIyNDAiIHI9IjYiLz48Y2lyY2xlIGN4PSIxMTIiIGN5PSIyNDAiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNDQiIGN5PSIyNDAiIHI9IjYiLz48Y2lyY2xlIGN4PSIxNzYiIGN5PSIyNDAiIHI9IjYiLz48Y2lyY2xlIGN4PSIyMDgiIGN5PSIyNDAiIHI9IjYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIyNDAiIHI9IjYiLz4KPC9nPgo8L3N2Zz4=",
+      "mimeType": "image/svg+xml",
+      "name": "bandhani_texture"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
+      },
+      "name": "BandhaniMaterial"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "name": "Quad"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "QuadNode"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0
+}

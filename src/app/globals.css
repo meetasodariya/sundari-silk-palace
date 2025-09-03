@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:wght@400;500;700&display=swap');
+
+/* These are the correct directives for Tailwind CSS v3 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This `theme()` function will now work correctly */
+body {
+  background-color: theme('colors.brand-off-white');
+  color: theme('colors.brand-charcoal');
+}
+
+/* Your other global styles */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: theme('colors.brand-off-white'); }
+::-webkit-scrollbar-thumb { background: theme('colors.brand-maroon'); border-radius: 10px; }
+.swiper-pagination-bullet-active { background-color: theme('colors.brand-maroon') !important; }
+.swiper-button-next, .swiper-button-prev { color: theme('colors.brand-maroon') !important; }
